@@ -1,0 +1,7 @@
+{
+  "editor.formatOnSave": true,
+  "editor.defaultFormatter": "esbenp.prettier-vscode",
+  "yaml.format.enable": false,
+  "prettier.bracketSameLine": true,
+  "prettier.endOfLine": "auto"
+}
